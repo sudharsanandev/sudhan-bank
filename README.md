@@ -7,7 +7,8 @@ Pre-requirestics:
 <li>Ganache</li>
 <li>Truffle Framework</li>
 <li>Metamask Browser Extension</li>
-
+</br>
+</br>
 Instructions to run
 <ol>
   <li>git clone or download the repository</li>
