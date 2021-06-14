@@ -1,7 +1,7 @@
 <h1>Decentralized Finance App Example -Sudhan Bank</h1>
 Sudhan Bank - is a working example of a decentralized Finance Application Using Ethereum,Truffle,solidity,Ganache and React.Js
 Implementation of Hands on Tutorial from Dapp University
-![image](https://user-images.githubusercontent.com/83658841/121964669-84f82280-cd89-11eb-868f-d13ec0517792.png)
+<img src="https://user-images.githubusercontent.com/83658841/121964669-84f82280-cd89-11eb-868f-d13ec0517792.png"/>
 Pre-requirestics:
 <li>Node js</li>
 <li>Ganache</li>
