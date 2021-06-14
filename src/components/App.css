@@ -1,0 +1,27 @@
+/* Styles go here */
+div{
+    font-family: cabin;
+   
+}
+h1{
+    font-family: algerian;
+   
+}
+.text-monospace{
+    background-image: url('../bg.jpg');
+    background-size: "cover";
+    height: "100%";
+    color: white;
+}
+.style1{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: stretch;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .style2{
+    flex: 1;
+    text-align: center;
+  }
