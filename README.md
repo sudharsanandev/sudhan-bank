@@ -8,8 +8,15 @@ Pre-requirestics:
 <li>Metamask Browser Extension</li>
 
 Instructions to run
-1)git clone or download the repository
-2)npm install
-3)truffle test(check whether all tests are passing)
-4)truffle migrate --reset
-5)npm start
+<ol>
+  <li>git clone or download the repository</li>
+  <li>npm install</li>
+  <li>truffle test(check whether all tests are passing)</li>
+  <li>truffle migrate --reset</li>
+  <li>npm start</li>
+</ol>
+
+For detailed demo:
+https://www.youtube.com/watch?v=xWFba_9QYmc
+
+Thanks to DappUniversity
